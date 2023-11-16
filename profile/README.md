@@ -1,4 +1,4 @@
-## Hi there 👋
+## Spectrum is the framwork of apps that will change the way you do live
 
 <!--
 
